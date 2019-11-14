@@ -1,0 +1,50 @@
+定义函数：创建发薪方案($$方案名称,$$所属机构,$$发薪周期)
+{
+	登录系统
+    点击新增
+    文本框填充:$$方案名称
+    文本框填充:$$所属机构
+	文本框填充:$$发薪周期
+}
+sfdsfdfdg
+fgfdgfgfg:sdfdgdfg
+fdgftyjyt:$$dgf
+文本dfdgfd:$$fdf
+
+定义函数：创建发薪方案1($$方案名称,$$所属机构,$$发薪周期)
+{
+	登录系统1
+	点击新增1
+	文本框填充1:$$方案名称
+	文本框填充1:$$所属机构
+	文本框填充1:$$发薪周期
+}
+sfdsfdfdg
+fgfdgfgfg:sdfdgdfg
+fdgftyjyt:$$dgf
+文本dfdgfd:$$fdf
+定义函数：创建发薪方案2($$方案名称,$$所属机构,$$发薪周期)
+{
+	登录系统2
+	点击新增
+	文本框填充2:$$方案名称
+	文本框填充2:$$所属机构
+	文本框填充2:$$发薪周期
+}
+sfdsfdfdg
+fgfdgfgfg:sdfdgdfg
+fdgftyjyt:$$dgf
+文本dfdgfd:$$fdf
+
+定义函数：创建发薪方案3($$方案名称,$$所属机构,$$发薪周期)
+{
+	登录系统3
+	点击新增
+	文本框填充3:$$方案名称
+	文本框填充3:$$所属机构
+	文本框填充3:$$发薪周期
+}
+sfdsfdfdg
+fgfdgfgfg:sdfdgdfg
+fdgftyjyt:$$dgf
+文本dfdgfd:$$fdf
